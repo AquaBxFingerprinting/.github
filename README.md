@@ -1,3 +1,14 @@
+# FingerprintSimilarity
+
+**Objective**
+This repository collection focuses on developing methods to measure the distances between web browser fingerprints.
+
+**Purpose**
+The primary aim is to cluster individuals based on fingerprint similarity, grouping those with the closest profiles.
+
+**Future Work**
+The next phase involves identifying optimized web browser configurations for each cluster to enhance anonymization and reduce fingerprint uniqueness.
+
 ## [fingerprint-extract](https://gitlab.inria.fr/diverse/fingerprintsimilarity/fingerprint-extract)
 This application extracts the fingerprint of your browser based on the work of [https://github.com/HuygheMaxime/fp-rainbow/](https://github.com/HuygheMaxime/fp-rainbow/).
 
